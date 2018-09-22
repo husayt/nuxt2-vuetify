@@ -16,7 +16,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "2.0.0",
+    "nuxt-edge": "2.0.0-25607354.1e02195",
     "vuetify": "1.2.4"
   },
   "devDependencies": {
